@@ -1,5 +1,16 @@
 xde-theme-telcom -- history of user-visible changes.  2021-12-08
 
+Release xde-theme-telcom-1.2.3 released 2021-12-08
+--------------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.2...1.2.3
+
+Brian Bidulock <bidulock@openss7.org> (3):
+      post-release update
+      fix wallpaper number
+      prepare for adwm theme
+
+
 Release xde-theme-telcom-1.2 released 2021-12-08
 ------------------------------------------------
 
